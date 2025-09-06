@@ -1,0 +1,160 @@
+[
+        {
+        "name": "Curved Lines",
+        "description": "Interactive WebGL fragment shader animating sin / cosine waves.",
+        "created_at": 1757153886,
+        "modified_at": 1757153886,
+        "url": "./demos/curved_lines/index.html",
+        "repo": "",
+        "image": "./images/curved_lines.jpeg",
+        "tags": [
+            "webgl",
+            "javascript",
+            "shader",
+            "visualization",
+            "math",
+            "interactive"
+        ]
+    },
+    {
+        "name": "Particle Rose",
+        "description": "Interactive WebGL fragment shader animating rose curves.",
+        "created_at": 1757151196,
+        "modified_at": 1757151196,
+        "url": "./demos/particle_rose/index.html",
+        "repo": "",
+        "image": "./images/particle_rose.jpeg",
+        "tags": [
+            "webgl",
+            "javascript",
+            "shader",
+            "visualization",
+            "math",
+            "interactive",
+            "particles",
+            "rose curve"
+        ]
+    },
+    {
+        "name": "Double Pendulum",
+        "description": "p5.js sketch simulating a chaotic double pendulum with a fading trail.",
+        "created_at": 1757116800,
+        "modified_at": 1757116800,
+        "url": "./demos/double_pendulum/index.html",
+        "repo": "",
+        "image": "./images/double_pendulum.jpeg",
+        "tags": [
+            "p5js",
+            "javascript",
+            "physics",
+            "chaos",
+            "visualization",
+            "math"
+        ]
+    },
+    {
+        "name": "3d Shapes",
+        "description": "p5.js sketch rendering various rotating 3d wireframe shapes.",
+        "created_at": 1757087944,
+        "modified_at": 1757087944,
+        "url": "./demos/3d_shapes/index.html",
+        "repo": "",
+        "image": "./images/3d_shapes.jpeg",
+        "tags": [
+            "p5js",
+            "javascript",
+            "math",
+            "js",
+            "processing"
+        ]
+    },
+    {
+        "name": "Maurer Rose",
+        "description": "p5.js sketch rendering dynamic Maurer Rose patterns with smoothly fading transitions, color cycling, and animated petal counts.",
+        "created_at": 1757087944,
+        "modified_at": 1757087944,
+        "url": "./demos/maurer_rose/index.html",
+        "repo": "",
+        "image": "./images/maurer_rose.jpeg",
+        "tags": [
+            "p5js",
+            "javascript",
+            "math",
+            "js",
+            "processing"
+        ]
+    },
+    {
+        "name": "Mandelbulb",
+        "description": "Interactive WebGL fractal explorer rendering a ray-marched Mandelbulb with zoom and rotation.",
+        "created_at": 1756911551,
+        "modified_at": 1756911551,
+        "url": "./demos/mandelbulb/index.html",
+        "repo": "",
+        "image": "./images/mandelbulb.jpeg",
+        "tags": [
+            "graphics",
+            "raymarching",
+            "webgl",
+            "opengl",
+            "shaders",
+            "wasm",
+            "dotnet",
+            "fractal"
+        ]
+    },
+    {
+        "name": "Infinite Cubes",
+        "description": "Real-time WebGL / Wasm demo showcasing an infinite lattice of ray-marched cubes inspired by interstellar visuals.",
+        "created_at": 1756842804,
+        "modified_at": 1756842804,
+        "url": "./demos/infinite_cubes/index.html",
+        "repo": "",
+        "image": "./images/infinite_cubes.jpeg",
+        "tags": [
+            "graphics",
+            "raymarching",
+            "webgl",
+            "opengl",
+            "shaders",
+            "wasm",
+            "dotnet",
+            "fractal"
+        ]
+    },
+    {
+        "name": "Reflective Spheres",
+        "description": "Real-time WebGl / Wasm path tracer demo showcasing reflective spheres, physics collisions, and dynamic shadows.",
+        "created_at": 1756400239,
+        "modified_at": 1756400239,
+        "url": "./demos/reflective_spheres/index.html",
+        "image": "./images/reflective_spheres.jpeg",
+        "repo": "",
+        "tags": [
+            "graphics",
+            "webgl",
+            "opengl",
+            "C#",
+            "dotnet",
+            "wasm"
+        ]
+    },
+    {
+        "name": "Mandelbrot",
+        "description": "Interactive Mandelbrot fractal renderer using WebAssembly and WebGL, featuring dynamic animated coloring and smooth zooming.",
+        "created_at": 1756455399,
+        "modified_at": 1756455399,
+        "url": "./demos/mandelbrot/index.html",
+        "image": "./images/mandelbrot.jpeg",
+        "repo": "",
+        "tags": [
+            "graphics",
+            "webgl",
+            "opengl",
+            "C#",
+            "dotnet",
+            "wasm",
+            "fractal"
+        ]
+    }
+]
